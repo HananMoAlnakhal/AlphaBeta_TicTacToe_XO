@@ -5,6 +5,7 @@
 </ul>
 
 <h2><b>I wrote an article on Medium explaining how to make an<br> alpha-beta tic-tac-toe!</b></h2>
-<a href="https://medium.com/@nana2004mo/making-a-tictactoe-using-alpha-beta-bruning-82b985684896><img src="https://i.ibb.co/pWB956p/Screenshot-2024-11-16-210046.jpg" alt="Screenshot-2024-11-16-210046" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/analysis-of-the-rose-that-grew-from-concrete-by-tupac-shakur'></a><br />
 <a target="_blank" href="https://medium.com/@nana2004mo/making-a-tictactoe-using-alpha-beta-bruning-82b985684896">Click here to read it
 !</a>
+  <img src="https://i.ibb.co/pWB956p/Screenshot-2024-11-16-210046.jpg" alt="Screenshot-2024-11-16-210046" border="0">
+
