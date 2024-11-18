@@ -1,7 +1,7 @@
 <h1>About the game:🤖</h1>
 <ul>
-  <li>this game is made using plain Python langueg using Colab </li>
-  <li>it uses Alpha-Beta algorithm to play against you! <br>_AI. always win or you would have a tie </li>
+  <li> This game is made using plain Python language using Colab </li>
+  <li> It uses the Alpha-Beta algorithm to play against you! <br>_AI. always win or you will have a tie </li>
 </ul>
 
 <h2><b>I wrote an article on Medium explaining how to make an<br> alpha-beta tic-tac-toe!</b></h2>
